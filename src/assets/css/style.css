@@ -1,0 +1,13 @@
+:root {
+  --background-color-primary: hsl(0, 0%, 98%);    /* (Light Mode Background): hsl(0, 0%, 98%)*/
+  --background-color-secondary: hsl(0, 0%, 100%); /* (Light Mode Elements):   hsl(0, 0%, 100%)*/
+  --input-background-color: hsl(0, 0%, 52%);      /* (Light Mode Input):      hsl(0, 0%, 52%)*/
+  --text-primary-color:hsl(200, 15%, 8%);         /* (Light Mode Text):       hsl(200, 15%, 8%) */
+}
+
+:root.dark-theme {
+--background-color-primary: hsl(207, 26%, 17%);   /* (Dark Mode Background): hsl(207, 26%, 17%)*/
+--background-color-secondary: hsl(209, 23%, 22%); /* (Dark Mode Elements):   hsl(209, 23%, 22%)*/
+--input-background-color: hsl(209, 23%, 22%);     /* (Dark Mode Input):      hsl(209, 23%, 22%)*/
+--text-primary-color: hsl(0, 0%, 100%);           /* (Dark Mode Text):       hsl(0, 0%, 100%) */
+}

@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueMaterial from 'vue-material/dist/vue-material.css'
+import './assets/css/style.css'
 
 Vue.use(VueMaterial)
 
