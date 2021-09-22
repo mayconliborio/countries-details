@@ -57,7 +57,7 @@ h1{
   margin-top: 15px;
   margin-bottom: 8px;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 p{
